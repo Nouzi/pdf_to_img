@@ -1,1 +1,5 @@
 /target
+*.so
+*.exe
+*.dll
+*.dylib
